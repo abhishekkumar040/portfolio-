@@ -1,8 +1,4 @@
-# Abhishek Kumar — Portfolio
 
-A single-page personal portfolio website for **Abhishek Kumar**, a final-year Computer Science student, Web Developer, and AI Engineer based in Bengaluru, India. Built as a self-contained HTML file with a dark, terminal-inspired aesthetic.
-
-🔗 **Live site:** _add your deployed URL here_
 
 ## About
 
