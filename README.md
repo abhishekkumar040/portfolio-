@@ -82,8 +82,8 @@ Since this is a static site, it can be deployed for free on:
 - **Email:** bika2413@gmail.com
 - **GitHub:** [@abhishekkumar040](https://github.com/abhishekkumar040)
 - **LinkedIn:** [abhishek-singh-57233019b](https://www.linkedin.com/in/abhishek-singh-57233019b/)
-- **Instagram:** [@abhishek.media](https://www.instagram.com/abhishek.media/)
-- **YouTube:** [@abhishek.mediaa](https://www.youtube.com/@abhishek.mediaa)
+- **Instagram:** [@abhishek.mediaa](https://www.instagram.com/abhishek.mediaa/)
+- **YouTube:** [@Aviii224YT](https://www.youtube.com/@Aviii224YT)
 
 ## License
 
