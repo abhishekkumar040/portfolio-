@@ -39,16 +39,7 @@ This portfolio highlights a blend of technical and creative work:
 
 This is a static, dependency-free website — no build step required.
 
-1. Clone the repository
-   ```bash
-   git clone https://github.com/abhishekkumar040/<repo-name>.git
-   cd <repo-name>
-   ```
-2. Open `abhishek-kumar-portfolio.html` directly in your browser, **or** serve it locally:
-   ```bash
-   python -m http.server 8000
-   ```
-   Then visit `http://localhost:8000` in your browser.
+open `abhishek-kumar-portfolio.html` directly in your browser.
 
 ## Project Structure
 
@@ -57,16 +48,6 @@ This is a static, dependency-free website — no build step required.
 ├── abhishek-kumar-portfolio.html   # Main portfolio page (HTML, CSS, JS all in one file)
 └── Abhishek_Kumar_Resume.pdf       # Downloadable resume (linked from the site)
 ```
-
-## Customization
-
-To adapt this template for your own portfolio:
-
-- Update the `<title>` and `<meta name="description">` tags in the `<head>`
-- Edit the **hero**, **about**, **projects**, **skills**, **experience**, **education**, and **certifications** sections with your own content
-- Replace `Abhishek_Kumar_Resume.pdf` with your own resume file
-- Update contact details (email, phone, and social links) in the **Contact** section
-- Adjust the color palette via the CSS custom properties defined in `:root` (e.g. `--teal`, `--amber`, `--bg`)
 
 ## Deployment
 
