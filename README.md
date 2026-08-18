@@ -14,7 +14,7 @@ This portfolio highlights a blend of technical and creative work:
 - **Animated hero section** with a typing effect that cycles through roles
 - **Simulated "scan" animation** showing an animated confidence meter
 - **Scroll-reveal animations** for sections as you scroll down the page
-- **Animated statistics counters** (audience size, model accuracy, CGPA, etc.)
+- **Animated statistics counters* (audience size, model accuracy, CGPA, etc.)
 - **Sections include:**
   - About
   - Projects (with metric bars for model accuracy/precision/recall/F1)
