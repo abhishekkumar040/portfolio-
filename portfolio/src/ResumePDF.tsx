@@ -299,7 +299,7 @@ export const ResumePDF = () => (
               surfacing the exact signals behind every prediction rather than just a score. Alongside
               technical work, I'm a photo & video journalist and media influencer with a 150K+ combined
               audience across Instagram, YouTube, and Facebook — bridging problem-solving through code
-              with storytelling through media. Currently expanding into DevOps and prompt engineering.
+              with storytelling through media. Currently expanding into DevOps,full-stack Dve and prompt engineering.
             </Text>
           </View>
 
@@ -344,7 +344,7 @@ export const ResumePDF = () => (
               <Text style={styles.projectTitle}>Full-Stack Web Platform</Text>
               <Text style={styles.projectDesc}>
                 Built full-stack web applications using React/Next.js frontend with Prisma ORM and
-                SQLite/SQL backends. Designed responsive UIs with TypeScript, handled REST API
+                SQL backends. Designed responsive UIs with TypeScript, handled REST API
                 integrations, and deployed via Vercel and Netlify with CI/CD pipelines.
               </Text>
               <View style={styles.techRow}>
@@ -365,7 +365,7 @@ export const ResumePDF = () => (
 
             <View style={styles.entryBlock}>
               <Text style={styles.entryTitle}>Media Influencer & Photo/Video Journalist</Text>
-              <Text style={styles.entrySubtitle}>ABHISHEK.MEDIA · Self-Employed</Text>
+              <Text style={styles.entrySubtitle}>ABHISHEK.MEDIAA · Self-Employed</Text>
               <Text style={styles.entryMeta}>2021 – Present · Bengaluru & Remote</Text>
               <Text style={styles.entryDesc}>
                 Built and managed a 150K+ combined audience across Instagram, YouTube, and Facebook
