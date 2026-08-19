@@ -265,25 +265,49 @@ export const ResumePDF = () => (
   >
     <Page size="A4" style={styles.page}>
       {/* ── HEADER ── */}
-      <View style={styles.header}>
-        <Text style={styles.name}>ABHISHEK KUMAR</Text>
-        <Text style={styles.tagline}>Web Developer & AI Engineer · Open to Work</Text>
-        <View style={styles.contactRow}>
-          <Text style={styles.contactItem}>📍 Bengaluru, India</Text>
-          <Link src="mailto:abhishek.k040@gmail.com" style={styles.contactLink}>
-            abhishek.k040@gmail.com
-          </Link>
-          <Link src="https://github.com/abhishekkumar040" style={styles.contactLink}>
-            github.com/abhishekkumar040
-          </Link>
-          <Link src="https://abhishekkumar040.github.io/portfolio-/" style={styles.contactLink}>
-            Portfolio
-          </Link>
-          <Link src="https://www.instagram.com/abhishek.media" style={styles.contactLink}>
-            @abhishek.media
-          </Link>
-        </View>
-      </View>
+     <View style={styles.header}>
+  <Text style={styles.name}>ABHISHEK KUMAR</Text>
+  <Text style={styles.tagline}>Web Developer & AI Engineer · Open to Work</Text>
+
+  <View style={styles.contactRow}>
+    <Text style={styles.contactItem}>📍 Bengaluru, India</Text>
+
+    <Link
+      src="mailto:abhishek.k040@gmail.com"
+      style={styles.contactLink}
+    >
+      abhishek.k040@gmail.com
+    </Link>
+
+    <Link
+      src="https://github.com/abhishekkumar040"
+      style={styles.contactLink}
+    >
+      github.com/abhishekkumar040
+    </Link>
+
+    <Link
+      src="https://portfolio-pink-six-p8gnby3u2z.vercel.app"
+      style={styles.contactLink}
+    >
+      portfolio-pink-six-p8gnby3u2z.vercel.app
+    </Link>
+
+    <Link
+      src="https://www.linkedin.com/in/abhishek-kumar-57233019b/"
+      style={styles.contactLink}
+    >
+      linkedin.com/in/abhishek-kumar-57233019b
+    </Link>
+
+    <Link
+      src="https://www.instagram.com/abhishek.mediaa"
+      style={styles.contactLink}
+    >
+      @abhishek.mediaa
+    </Link>
+  </View>
+</View>
 
       {/* ── TWO-COLUMN BODY ── */}
       <View style={styles.body}>
